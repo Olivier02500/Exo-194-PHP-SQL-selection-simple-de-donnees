@@ -1,0 +1,8 @@
+.title {
+    font-weight: bold;
+}
+
+.user {
+    border: 2px solid orangered;
+    border-radius: 15%;
+}
